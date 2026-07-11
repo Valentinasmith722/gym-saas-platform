@@ -1,39 +1,55 @@
-# ☕ Support This Project
+# Support Gym SaaS Platform
 
-This tool is **100% free and open source**. We built it because we believe everyone deserves powerful tools, regardless of budget.
+> This project is 100% free and open source. If it helps your gym, saves you time, or makes your life easier, consider supporting its continued development.
 
-If this project helped you grow your business, saved you time, or made your life easier, consider supporting its continued development:
+## Why Support?
 
-## Ways to Support
+- **Free forever** — No paywalls, no subscriptions
+- **Active development** — New features every month
+- **Community driven** — Built by gym owners, for gym owners
+- **Open source** — Your support keeps the code public
 
-### 💳 GitHub Sponsors
-Coming soon! We're setting up GitHub Sponsors for monthly support.
+## How to Support
 
-### 🪙 Cryptocurrency (Instant, Global, Low Fees)
+### 💎 Crypto (Preferred — No fees, instant)
 
-**Solana (USDT/USDC)** — Fast, cheap, global
+**Solana (USDT/USDC):**
 ```
 BKjS4agVRowFGqUuWHEKZerk3dCS52V1n4NdWaeNTo8E
 ```
 
-**Why crypto?**
-- Instant global transfers
-- Near-zero fees (< $0.01)
-- No bank intermediaries
-- Works in every country
+**Network:** Solana SPL
+**Token:** USDT or USDC
 
-### ⭐ Star the Repository
-The easiest way to support us! Stars help others discover this project.
+### ☕ Buy Me a Coffee
+Coming soon...
 
-### 🐛 Report Issues
-Help us improve by reporting bugs and suggesting features.
+### 🤝 GitHub Sponsors
+Coming soon...
 
-### 🔧 Contribute Code
-Submit pull requests! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+## What Your Support Enables
 
-### 📣 Share
-Tell others about this tool on social media, forums, and communities.
+| Amount | Impact |
+|--------|--------|
+| $5 | Bug fix or small feature |
+| $25 | New integration (payment, notification) |
+| $50 | Mobile app feature (iOS/Android) |
+| $100+ | Major release + priority support |
+
+## Transparency
+
+All contributions go directly to:
+- Server costs (VPS, database)
+- Development time
+- Third-party APIs (SMS, email, maps)
+- Security audits
+
+**No middlemen. No platform fees. 100% to the project.**
+
+## Thank You! 🙏
+
+Every contribution, no matter how small, makes a difference.
 
 ---
 
-*Every contribution, no matter how small, makes a difference. Thank you for being part of this journey.* 🙏
+*Want to contribute code instead? Check out [CONTRIBUTING.md](CONTRIBUTING.md)*
